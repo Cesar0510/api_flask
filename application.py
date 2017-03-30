@@ -6,6 +6,6 @@
 #-------------------------------------------
 
 
-from app import app
+from api_rest.app import app
 
-app.run()
+app.run(port=9090)
