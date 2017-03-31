@@ -90,3 +90,5 @@ ENV/
 
 ##
 pdf_files/
+*.db
+
